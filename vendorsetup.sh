@@ -6,7 +6,7 @@ echo "=================================="
 echo "|                                |"
 echo "|  Realme 9 5G SE Setup Script   |"
 echo "|         Branch: Droidx         |"
-echo "|  Maintained By: ZirgomHaidar   |"
+echo "|  Maintained By: Meowdharchod   |"
 echo "|                                |"
 echo "=================================="
 }
@@ -14,7 +14,7 @@ echo "=================================="
 banner 2>1
 
 # Clone Kernel source
-git clone https://github.com/ZirgomHaidar/kernel_realme_sm8350 kernel/realme/sm8350
+git clone https://github.com/pjgowtham/android_kernel_oplus_sm8350 kernel/oplus/sm8350
 
 # Clone Vendor source
 git clone https://gitlab.com/ZirgomHaidar/vendor_realme_rmx3461.git vendor/realme/RMX3461
