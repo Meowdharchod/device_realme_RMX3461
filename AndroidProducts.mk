@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_RMX3461.mk
+    $(LOCAL_DIR)/evolution_RMX3461.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_RMX3461-user \
-    superior_RMX3461-userdebug \
-    superior_RMX3461-eng
+    evolution_RMX3461-user \
+    evolution_RMX3461-userdebug \
+    evolution_RMX3461-eng
