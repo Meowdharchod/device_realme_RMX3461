@@ -5,7 +5,7 @@ clear
 echo "=================================="
 echo "|                                |"
 echo "|  Realme 9 5G SE Setup Script   |"
-echo "|         Branch: Droidx         |"
+echo "|         Branch: Evolution      |"
 echo "|  Maintained By: Meowdharchod   |"
 echo "|                                |"
 echo "=================================="
